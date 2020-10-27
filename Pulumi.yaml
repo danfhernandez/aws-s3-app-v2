@@ -1,0 +1,3 @@
+name: aws-s3-app-v2
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
